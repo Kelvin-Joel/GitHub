@@ -1,7 +1,2 @@
 chanchito feliz :S
-
-programando y aprendiendo a manejar github :S
-
-console.log("Elementores");
-console.log("Componentes :S")
 chanchito feliz :S
